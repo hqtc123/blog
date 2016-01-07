@@ -1,0 +1,25 @@
+menu:
+  '博客': /
+  '归档': /archives
+  'PlayStock': 'http://115.159.94.119:5000'
+
+widgets:
+- category
+- tag
+
+excerpt_link: 更多
+
+addthis:
+  enable: true
+  pubid:
+  facebook: true
+  twitter: true
+  google: true
+  pinterest: true
+
+fancybox: true
+
+google_analytics:
+rss:
+
+comment_provider: weibo

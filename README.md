@@ -1,2 +1,1 @@
-# hqtc123.github.io
-Write Something ...
+#blog
