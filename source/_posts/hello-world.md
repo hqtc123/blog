@@ -1,6 +1,8 @@
-title: 静态博客系统hexo介绍
+title: hexo介绍
 date: 2015-12-20 16:10:09
 ---
+首先，是这个博客站使用的静态博客系统Hexo的介绍： 
+
 Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start

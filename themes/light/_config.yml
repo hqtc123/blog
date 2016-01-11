@@ -1,7 +1,7 @@
 menu:
   '博客': /
   '归档': /archives
-  'PlayStock': 'http://115.159.94.119:5000'
+  'PlayStock': 'http://121.41.58.246:5000'
 
 widgets:
 - category
